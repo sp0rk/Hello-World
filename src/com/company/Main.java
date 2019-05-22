@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Bonjour");
         System.out.println("Tervist");
         System.out.println("Cześć");
+        System.out.println("Guten Tag");
     }
 }
